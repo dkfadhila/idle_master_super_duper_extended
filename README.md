@@ -1,39 +1,24 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/96wf12emnlbmo4sj?svg=true)](https://ci.appveyor.com/project/JonasNilson/idle-master-extended)
 ![Github All Releases](https://img.shields.io/github/downloads/JonasNilson/idle_master_extended/total.svg)
 
-# 🚀 Idle Master Extended
-
-Get your [Steam Trading Cards](https://steamcommunity.com/tradingcards/) the quickest possible way.
+# 🚀 Idle Master Super Duper Extended
 
 
-## ❓ But what is Idle Master Extended?
+## But what is Idle Master?
 
-🔧 This is a fork of the **discontinued** [Idle Master](https://github.com/jshackles/idle_master) project by [jshackles](https://github.com/jshackles) (also known for [Enhanced Steam](https://github.com/jshackles/Enhanced_Steam)):
+This is a fork of the **discontinued** [Idle Master](https://github.com/jshackles/idle_master) project by [jshackles](https://github.com/jshackles) (also known for [Enhanced Steam](https://github.com/jshackles/Enhanced_Steam)), and [Idle Master Extended](https://github.com/JonasNilson/idle-master-extended)
 
 > This program will determine which of your Steam games still have Steam Trading Card drops remaining, and will go through each application to simulate you being “in-game” so that cards will drop. It will check periodically to see if the game you’re idling has card drops remaining. When only one drop remains, it will start checking more frequently. When the game you’re idling has no more cards, it’ll move on to the next game. When no more cards are available, the program will terminate. 
-> 
-> This application requires Steam to be open and for you to be logged in.  This program is now being developed exclusively for Microsoft Windows. Non-Windows versions are available in the [Python repository](https://github.com/jshackles/idle_master_py) but may be deprecated or feature incomplete.
-> 
-> Source: [`jshackles/idle_master`](https://github.com/jshackles/idle_master) 
+Idle Master Super Duper Extended
 
+## Overview Idle Master Super Duper Extended
 
-## 🔽 Download
+Idle Master Super Duper Extended is a modified version of Idle Master Extended that attempts to remove the maximum idling limit of 30 games simultaneously.
 
-- https://github.com/JonasNilson/idle_master_extended/releases
+## Main Changes
 
+>Changes the limit of games that can be idled from 30 to a higher value.
 
-## 💭 [Idle Master Extended Wiki](https://github.com/JonasNilson/idle_master_extended/wiki)
+## Current Status
 
-- 🧰 [Get started](https://github.com/JonasNilson/idle_master_extended/wiki/Get-started)
-- ✨ [Features](https://github.com/JonasNilson/idle_master_extended/wiki/Features)
-- 🔄 [FAQ](https://github.com/JonasNilson/idle_master_extended/wiki/FAQ)
-- 🔨 [Troubleshooting](https://github.com/JonasNilson/idle_master_extended/wiki/Troubleshooting-and-common-solutions)
-- 🎨 [Contribute](https://github.com/JonasNilson/idle_master_extended/wiki/Contribute)
-- 🎁 [Donate](https://github.com/JonasNilson/idle_master_extended/wiki/Donate)
-
-
-## Credits
-
-Idle Master was created by [jshackles](https://github.com/jshackles), based on the original code created by Stumpokapow.
-
-Idle Master was written in `C#` using `Steamworks.NET` and [`CSteamworks`](https://github.com/rlabrecque/CSteamworks), and using open source icons from [Open Iconic](https://github.com/iconic/open-iconic).
+💀 Always crashes after modification. (🤣)
